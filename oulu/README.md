@@ -17,7 +17,8 @@ Onde você vir **nome-sobrenome**, substitua pelo nome de sua conta. Em meu caso
 * Criação de diretório *public_html*: `mkdir ~/public_html`
 * Verificação da criação: `ls -F1`
 * Entrada no diretório: `cd public_html`
-* Publicação de conteúdo qualquer: ```
+* Publicação de conteúdo qualquer: 
+```
 touch bla.txt ble.jpg bli.png blo.html blu.css
 ls -F1
 mkdir -v lorem ipsum
