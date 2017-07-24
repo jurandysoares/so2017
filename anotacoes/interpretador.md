@@ -10,16 +10,16 @@ Se você é um usuário do Sistema Operacional Windows, a maneira mais simples e
 sendo quase um avô do Windows.
 
 Para abrir o *Prompt do DOS*, digite: 
-* `\<Windows> + \<R>`
+* `<Windows> + <R>`
 * `cmd`
-* `\<ENTER>`
+* `<ENTER>`
 
 **Observação:** O que está circundado por *\<>* é uma *\<Tecla>* que deve ser digitada.
 
 Para obter uma ajuda resumida de alguns comandos básicos:
 * `help`
 
-Para obter ajuda mais detalhada de um comando: `\<COMANDO> /?`
+Para obter ajuda mais detalhada de um comando: `<COMANDO> /?`
 * `dir /?`
 
 Criação, listagem e exclusão de diretórios em *Documentos* (Documents)
@@ -50,7 +50,7 @@ Uma vez instalado o *Git for Windows*, procure por *Git Bash*:
 Para obter uma ajuda resumida de alguns comandos básicos:
 * `help`
 
-Para obter ajuda mais detalhada de um comando: `\<COMANDO> --help`
+Para obter ajuda mais detalhada de um comando: `<COMANDO> --help`
 * `ls --help`
 
 Criação, listagem e exclusão de diretórios em *Documentos* (Documents)
@@ -83,7 +83,7 @@ Para obter uma ajuda resumida de alguns comandos básicos:
 * `help`
 * `Get-Help`
 
-Para obter ajuda mais detalhada de um comando: `Get-Help \<COMANDO>`
+Para obter ajuda mais detalhada de um comando: `Get-Help <COMANDO>`
 * `Get-Help `
 
 Criação, listagem e exclusão de diretórios em *Documentos* (Documents)
