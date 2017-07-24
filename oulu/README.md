@@ -6,7 +6,7 @@ Onde você vir **nome-sobrenome**, substitua pelo nome de sua conta. Em meu caso
 
 ## Criação de conta
 1. Início de sessão como estudante: `ssh estudante@oulu.ifrn.local`
-2. Criação da conta: `sudo cria-minha-conta`  (Experimente: `sudo cria-TAB`)
+2. Criação da conta: `sudo cria-meu-usuario`  (Experimente: `sudo cria-TAB`)
 3. Troca da senha: `sudo troca-minha-senha` (Experimente: `sudo troca-TAB`)
 4. Encerramento da sessão de estudante: `exit`
 
