@@ -15,11 +15,13 @@ Por questão de simplicidade, já deixei estas ferramentas disponíveis em https
 * [Enviar os arquivos gerados para o Gitlab](#git-push)
 
 <a name="gitlab">
+
 ## Gerar um arquivo Markdown no Gitlab
 * Crie um novo projeto no [Gitlab](https://gitlab.devops.ifrn.edu.br), e dentro deste projeto, crie um arquivo `README.md` usando a sintaxe 
 da linguagem [Markdown](http://commonmark.org/help/).
 
 <a name="git-clone">
+
 ## Copiá-lo no Windows via linha de comando
 * Inicie o *Git Bash*
 * `cd ~/Documents`
@@ -31,10 +33,12 @@ da linguagem [Markdown](http://commonmark.org/help/).
 * `cd nome-do-projeto`
 
 <a name="md2docx">
+
 ## Gerar o Docx a partir do arquivo Markdown
 * `pandoc -o README.docx README.md`
 
 <a name="#md2html">
+
 ## Gerar o Html a partir do arquivo Markdown
 * `pandoc -o README.html README.md`
 
@@ -42,6 +46,7 @@ Caso seu arquivo tenha emojis, experimente:
 * `pandoc -o README.html -f markdown_github README.md`
 
 <a name="git-commit">
+
 ## Registrar os arquivos no Git
 * `git status`
 * `git add README.html`
@@ -52,6 +57,7 @@ Caso seu arquivo tenha emojis, experimente:
 * `git commit -m "Geração de DOCX e HTML a partir do MD"`
 
 <a name="git-push">
+
 ## Enviar os arquivos gerados para o Gitlab
 * `git status`
 * `git push`
