@@ -23,7 +23,7 @@ da linguagem [Markdown](http://commonmark.org/help/).
 <a name="git-clone">
 
 ## Copiá-lo no Windows via linha de comando
-* Inicie o *Git Bash*
+Inicie o *Git Bash* e execute os comandos abaixo:
 * `cd ~/Documents`
 * `mkdir Projetos`
 * `cd Projetos`
