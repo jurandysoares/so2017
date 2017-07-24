@@ -39,8 +39,7 @@ Para aprender mais, visite:
 
 ## Bash
 Bash é o Shell padrão dos Mac OS e das principais distribuições do Sistema Operacional Linux. 
-No Windows, há várias maneiras de se obter o Bash. A mais simples delas é instalando o [Git para Windows]
-(https://git-scm.com/download/win). 
+No Windows, há várias maneiras de se obter o Bash. A mais simples delas é instalando o [Git para Windows](https://git-scm.com/download/win). 
 
 Uma vez instalado o *Git for Windows*, procure por *Git Bash*:
 * `\<Windows>`
