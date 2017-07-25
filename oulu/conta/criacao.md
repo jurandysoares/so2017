@@ -1,4 +1,4 @@
-# Criação de sua propria conta
+# Criação de sua própria conta
 Onde você vir **nome-sobrenome**, substitua pelo nome de sua conta. Em meu caso, minha conta é **jurandy-soares**.
 
 ## Criação de conta
