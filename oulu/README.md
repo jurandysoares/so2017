@@ -5,4 +5,4 @@ primeiro você precisa criar sua conta a partir de sua conta pre-existente na re
 Caso ainda não tenha conta, siga as [intruções para criação de uma](conta/criacao.md).
 
 Uma vez criada sua conta, você pode:
-* [Publicar páginas na intranet](oulu/web).
+* [Publicar páginas na intranet](web/).
