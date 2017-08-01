@@ -12,6 +12,7 @@ Crie uma estrutura de diretórios para um diário de atividades do ano.
 * Alterar variáveis de ambiente (`VAR=valor`. Ex.: `PS1='[\W]$ '`)
 * Concatenar arquivos (`cat arq1.txt arq2.txt arq3.txt > arq4.txt`)
 * Copiar arquivos e pastas (`cp`, `cp -r`, `cp -v`, `cp -i`, `cp -f`)
+* Renomear e mover arquivos e pastas (`mv`)
 * Excluir arquivos e pastas (`rm` e `rm -r`)
 
 ## Dicas para navegação em diretório
