@@ -92,7 +92,7 @@ FIM
 ```
 ### Primeiro dia do diário
 1. Entre na pasta do mês atual (`ago`).
-2. Copie a pasta `dia` com o número dia de hoje (`1`). 
+2. Copie a pasta `dia` para uma pasta cujo nome será o dia de hoje (Ex.: `1`). 
 3. Dentro da pasta do dia de hoje (`1`), crie o arquivo chamado `pagina.md` com o seguinte conteúdo:
 ```
 # Dia $(basename $PWD)
