@@ -33,7 +33,7 @@ FIM
 
 ## Roteiro
 
-### Pasta de modelo para um dia
+### Pasta de modelo para um dia (10 pontos)
 1. Crie uma pasta chamada `dia` e dentro dela crie as subpastas:
 * `manha`
 * `tarde`
@@ -58,7 +58,7 @@ FIM
 * [Dia](../)
 ```
 
-### Estrutura de um diário
+### Estrutura de um diário (20 pontos)
 1. Crie a pasta `diario` e dentro dela crie as subpastas:
 * `jan`
 * `fev`
@@ -90,7 +90,7 @@ FIM
 * [Dezembro](./dez/)
 * [Calendário](../)
 ```
-### Primeiro dia do diário
+### Primeiro dia do diário (70 pontos)
 1. Entre na pasta do mês atual (`ago`).
 2. Copie a pasta `dia` para uma pasta cujo nome será o dia de hoje (Ex.: `1`). 
 3. Dentro da pasta do dia de hoje (`1`), crie o arquivo chamado `pagina.md` com o seguinte conteúdo:
