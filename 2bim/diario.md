@@ -92,7 +92,7 @@ FIM
 ### Primeiro dia do diário
 1. Entre na pasta do mês atual (`ago`).
 2. Copie a pasta `dia` com o número dia de hoje (`1`). 
-3. Dentro da pasta do dia de hoje `1`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+3. Dentro da pasta do dia de hoje (`1`), crie o arquivo chamado `pagina.md` com o seguinte conteúdo:
 ```
 # Dia $(basename $PWD)
 * [Manhã](./manha/)
@@ -100,5 +100,9 @@ FIM
 * [Noite](./noite/)
 * [Mês](../)
 ```
+4. Converta sua `pagina.md` para o formato HTML.
+5. Copie o arquivo `~jurandy-soares/dia/cabecalho.html` para pasta de hoje (`1`).
+6. Copie o arquivo `~jurandy-soares/dia/rodape.html` para pasta de hoje (`1`).
+7. Mescle os arquivos `cabecalho.html`, `pagina.html` e `rodape.html`, salvando o conteúdo no arquivo `index.html`.
+8. Faça os passos acima para o dia `2`, `3`, `4`. 
 
-Faça os passos acima para o dia `2`, `3`, `4`. 
