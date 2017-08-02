@@ -40,19 +40,19 @@ FIM
 * `noite`
 
 
-3. Dentro da pasta `manha`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+2. Dentro da pasta `manha`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Manhã
 * [Dia](../)
 ```
 
-4. Dentro da pasta `tarde`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+3. Dentro da pasta `tarde`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Tarde
 * [Dia](../)
 ```
 
-5. Dentro da pasta `noite`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
+4. Dentro da pasta `noite`, crie o arquivo chamado `index.md` com o seguinte conteúdo:
 ```
 # Noite
 * [Dia](../)
