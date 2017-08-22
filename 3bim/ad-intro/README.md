@@ -6,7 +6,7 @@
 1. Quais são todas as variáveis de ambiente do Windows? R.: `set`
 2. Qual o nome de seu usuário? R.: `echo %USERNAME%`
 2. Qual o nome de sua máquina? R.: `echo %COMPUTERNAME%`
-3. Qual o nome do servidor de autenticação? R.: `echo %LOGONSERVER`
+3. Qual o nome do servidor de autenticação? R.: `echo %LOGONSERVER%`
 
 ## Compreensão das siglas
 * DN: Nome distinto 
