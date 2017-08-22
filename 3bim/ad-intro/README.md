@@ -43,3 +43,35 @@ E você encontrará: https://rosettacode.org/wiki/Active_Directory/Search_for_a_
 #### Python
 https://github.com/jurandysoares/explorado
 
+```
+ssh nome-sobrenome@oulu
+view $(which cria-meu-usuario)
+   ESC:q!
+   
+explorado   
+  Matrícula:
+  Senha (do SUAP):
+  
+  # Consulta a seus dados
+  consulta_dados('Sua matrícula')
+  seu_nome = consulta_dados('Sua matrícula')
+  seu_nome.keys()
+  seu_nome['mail']
+  seu_nome['extensionAttribute5']
+  seu_nome['displayName']
+  print(seu_nome['displayName'][0])
+  
+  # Consulta a dados de um colega
+  consulta_dados('Matrícula de um colega')
+  nome_colega = consulta_dados('Matrícula de um colega')
+  nome_colega.keys()
+  nome_colega['mail']
+  nome_colega['extensionAttribute5']
+  nome_colega['displayName']
+  print(nome_colega['displayName'][0])
+  
+  # Consulta a dados do professor
+  nome_professor = consulta_dados('Matrícula do professor')
+  nome_professor['mail']
+  nome_professor['mobile'] 
+```
