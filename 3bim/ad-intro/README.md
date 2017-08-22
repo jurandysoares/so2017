@@ -17,6 +17,15 @@
 ## Execução de consultas
 
 ### Via linha de comando (CLI)
+* Recuperar todos os registros:
+  * De usuário: `dsquery user`
+  * De computador: `dsquery computer`
+  * De grupo: `dsquery group`
+
+* Recuperar registros específicos:
+  * De usuário: `dsquery user -name %USERNAME%`
+  * De computador: `dsquery computer %COMPUTERNAME%`
+  * De grupo: `dsquery group -name G_PAR_*`
 
 ### Via interface gráfica (GUI) 
 
