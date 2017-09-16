@@ -1,6 +1,6 @@
 # PowerShell
 
-Veja os repositórios de @PowerShell, como a [https://github.com/PowerShell/PowerShell-Docs](Documentação do PowerShell).
+Veja os repositórios de @PowerShell, como a [Documentação do PowerShell](https://github.com/PowerShell/PowerShell-Docs).
 
 ### Principais comandos
 * `Get-Help`: Obter ajuda.
